@@ -96,6 +96,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Arpit K Sharma - [Your Email](mailto:your-email@example.com)
+Arpit K Sharma - [a.k.sharma0369@gmail.com](mailto:your-email@example.com)
 
 Project Link: [https://github.com/Arpit-K-Sharma/Task-Manager](https://github.com/Arpit-K-Sharma/Task-Manager)
